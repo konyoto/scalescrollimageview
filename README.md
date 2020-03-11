@@ -1,2 +1,2 @@
 # scalescrollimageview
-Android Image View with Scale and Scroll gestures support
+Android Image View with scale and scroll gestures support

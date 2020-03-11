@@ -1,0 +1,2 @@
+rootProject.name='ScaleScrollImageView'
+include ':app'
